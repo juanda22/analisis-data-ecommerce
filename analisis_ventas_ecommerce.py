@@ -8,9 +8,6 @@ y clientes), para responder preguntas de negocio: rentabilidad por
 categoría, eficiencia por canal de venta, y comportamiento de
 clientes nuevos vs. recurrentes.
 
-Uso:
-    python analisis_ventas_ecommerce.py
-
 Datos esperados en ./data/: customers.csv, orders.csv, order_items.csv,
 products.csv. Si no están presentes, se genera automáticamente un
 dataset sintético con el mismo esquema para poder correr el pipeline
